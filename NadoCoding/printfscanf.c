@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main(void)
+ int main_printfscanf(void)
 {//출력은 ctrl + F5
 
 	/*int age = 12; //int : 자료형(정수), age : 변수형, 12 : intvalue
